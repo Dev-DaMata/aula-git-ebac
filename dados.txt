@@ -1,12 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Guilherme Cordeiro da Mata 
+-Profissão:Analista de Qualidade (QA)
+-Cidade:Atibaia/SP
+-O que faz nas horas vaga:Jogo volei com os meus amigos e passo um tempo com a familia
+-Feedback sobre o curso Qualidade de Software:Muito bom e rico em conhecimento
+-Feedback sobre a plataforma de estudo da EBAC:Melhor plataforma de curso que eu já vi
 
 Obrigado!!!
-
 
